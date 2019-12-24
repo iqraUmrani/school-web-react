@@ -1,0 +1,10 @@
+.parent-list{
+         background-color:rgb(241, 199, 241);
+}
+.parent-list ul li{
+   display: inline;
+   margin: 10px;
+   font-family: fantasy;
+   font-size: 1.5em;
+   
+}

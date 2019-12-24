@@ -1,0 +1,25 @@
+
+
+.introduce{
+    width: 100%;
+        background-color: rgb(241, 199, 241);
+        margin: 0;
+        
+}
+.introduce ul li{
+  display: inline;
+  margin: 20px;
+  color: black;
+  font-family: fantasy;
+  font-size: 2em;
+  
+}
+.introduce ul{
+   text-align: center;
+}
+.logo{
+  display: inline-block;
+  width: 10%;
+  
+  
+}

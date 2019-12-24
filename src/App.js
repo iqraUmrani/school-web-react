@@ -1,26 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
+import ReactDom from 'react-dom';
 import './App.css';
+ import Slider from './slider/slider'
+import Intro from './Introduction/intro'
+ import Timing from './feedback/timing'
+ import About from './about'
 
+import Contact from './contact';
+// import FeedBack from './feedback/feedBack'
+// import reactForm from './reactForm'
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+ 
+return(
+  <div>
+  <div className="App">
+    
+    <Intro/>
     </div>
-  );
+     <div className="feedback">
+    
+    <Timing/>
+  </div> 
+  
+  </div>
+)
+  
 }
+
 
 export default App;

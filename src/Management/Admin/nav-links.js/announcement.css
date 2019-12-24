@@ -1,0 +1,36 @@
+.announcement{
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+  /* .announcement button {
+    font-family: "Roboto", sans-serif;
+    text-transannouncement: uppercase;
+    outline: 0;
+    background: #4CAF50;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  } */
+  .announcement button:hover,.announcement button:active,.announcement button:focus {
+    background: #43A047;
+  }
+  .announcement textarea{
+    margin: 15px 0 0;
+   
+    font-size: 50px;
+  }
+  .Announcement{
+    background-color: blanchedalmond;
+  }

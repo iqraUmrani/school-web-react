@@ -1,0 +1,15 @@
+.contact_us{
+    background-color: rgb(61, 50, 50);
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+.contact_us h1{
+    text-align: center;
+}
+.contact_us p {
+    text-align: center;
+}
+.iframeDiv {
+    text-align: center;
+}

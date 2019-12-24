@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  /* */
+  /* background-image: url(./images/YorkHighSchool.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .App-logo {
@@ -19,4 +24,7 @@
 
 .App-link {
   color: #09d3ac;
+}
+.feedback{
+  margin-top: 20%;
 }

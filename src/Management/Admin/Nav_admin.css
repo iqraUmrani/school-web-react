@@ -1,0 +1,12 @@
+.nav_admin {
+    
+    background-color:rgb(241, 199, 241);
+}
+.nav_admin li{
+    display: inline;
+    margin: 10px;
+    font-family: fantasy;
+    font-size: 1.5em;
+    
+    
+}

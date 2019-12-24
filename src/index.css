@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./images/school_back.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color:rgb(209, 206, 199); */
 }
 
 code {

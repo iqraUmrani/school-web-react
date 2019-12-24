@@ -1,0 +1,10 @@
+.about-page{
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+.about-page p {
+    text-align: center;
+    justify-content: center;
+    padding:15px 30% 15px 30%;
+}
